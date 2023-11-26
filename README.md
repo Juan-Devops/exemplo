@@ -1,1 +1,3 @@
-# exemplo
+# Exemplo
+
+Exemplo para GitHub Actions
